@@ -1,0 +1,150 @@
+{
+  "title": "v7 sandy beaches composition and creation",
+  "description": "Explore the fascinating world of sandy beaches, from their geological origins to the dynamic processes that shape them. This course delves into the composition of beach sand, the forces of erosion and deposition, and the impact of human activity on these vital coastal ecosystems.",
+  "modules": [
+    {
+      "title": "Introduction to Sandy Beaches",
+      "description": "An overview of sandy beaches, their global distribution, and their importance as coastal environments.",
+      "topics": [
+        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stub" },
+        { "title": "What is a Sandy Beach?", "description": "Defining the characteristics of sandy beaches.", "path": "instruction/what-is-a-sandy-beach/what-is-a-sandy-beach.md", "type": "instruction", "state": "stub" },
+        { "title": "Global Distribution of Beaches", "description": "Exploring the geographical locations of sandy beaches worldwide.", "path": "instruction/global-distribution-of-beaches/global-distribution-of-beaches.md", "type": "instruction", "state": "stub" },
+        { "title": "Ecological Importance of Beaches", "description": "Understanding the role of beaches in coastal ecosystems.", "path": "instruction/ecological-importance-of-beaches/ecological-importance-of-beaches.md", "type": "instruction", "state": "stub" },
+        { "title": "Economic Value of Beaches", "description": "The economic contributions of sandy beaches to tourism and recreation.", "path": "instruction/economic-value-of-beaches/economic-value-of-beaches.md", "type": "instruction", "state": "stub" },
+        { "title": "Threats to Sandy Beaches", "description": "Examining the various threats facing sandy beaches, including erosion and pollution.", "path": "instruction/threats-to-sandy-beaches/threats-to-sandy-beaches.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Safety", "description": "A guide to beach safety, including rip currents and marine life.", "path": "instruction/beach-safety/beach-safety.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Etiquette", "description": "Guidelines for responsible beach use.", "path": "instruction/beach-etiquette/beach-etiquette.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Conservation", "description": "Exploring conservation efforts to protect sandy beaches.", "path": "instruction/beach-conservation/beach-conservation.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Access", "description": "Understanding beach access rights and issues.", "path": "instruction/beach-access/beach-access.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Monitoring", "description": "The process of beach monitoring and its importance.", "path": "instruction/beach-monitoring/beach-monitoring.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Restoration", "description": "Techniques for restoring eroded beaches.", "path": "instruction/beach-restoration/beach-restoration.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Sand Composition and Sources",
+      "description": "A detailed look at the mineral composition of sand and its origins.",
+      "topics": [
+        { "title": "Mineral Composition of Sand", "description": "Identifying the common minerals found in beach sand.", "path": "instruction/mineral-composition-of-sand/mineral-composition-of-sand.md", "type": "instruction", "state": "stub" },
+        { "title": "Quartz Sand", "description": "Focus on the characteristics and sources of quartz sand.", "path": "instruction/quartz-sand/quartz-sand.md", "type": "instruction", "state": "stub" },
+        { "title": "Carbonate Sand", "description": "Understanding the formation and composition of carbonate sand.", "path": "instruction/carbonate-sand/carbonate-sand.md", "type": "instruction", "state": "stub" },
+        { "title": "Volcanic Sand", "description": "Exploring the origins and properties of volcanic sand.", "path": "instruction/volcanic-sand/volcanic-sand.md", "type": "instruction", "state": "stub" },
+        { "title": "Heavy Mineral Sands", "description": "Identifying and understanding the significance of heavy mineral sands.", "path": "instruction/heavy-mineral-sands/heavy-mineral-sands.md", "type": "instruction", "state": "stub" },
+        { "title": "Sand Grain Size Analysis", "description": "Methods for determining sand grain size and its implications.", "path": "instruction/sand-grain-size-analysis/sand-grain-size-analysis.md", "type": "instruction", "state": "stub" },
+        { "title": "Sand Provenance", "description": "Tracing the origins of sand grains to their source rocks.", "path": "instruction/sand-provenance/sand-provenance.md", "type": "instruction", "state": "stub" },
+        { "title": "Riverine Input", "description": "The role of rivers in supplying sediment to beaches.", "path": "instruction/riverine-input/riverine-input.md", "type": "instruction", "state": "stub" },
+        { "title": "Coastal Erosion as a Source", "description": "How coastal erosion contributes to sand supply.", "path": "instruction/coastal-erosion-as-a-source/coastal-erosion-as-a-source.md", "type": "instruction", "state": "stub" },
+        { "title": "Biogenic Sand Formation", "description": "The role of organisms in creating sand.", "path": "instruction/biogenic-sand-formation/biogenic-sand-formation.md", "type": "instruction", "state": "stub" },
+        { "title": "Wind Transport of Sand", "description": "The role of wind in transporting sand to and from beaches.", "path": "instruction/wind-transport-of-sand/wind-transport-of-sand.md", "type": "instruction", "state": "stub" },
+        { "title": "Glacial Sediment and Beaches", "description": "The relationship between glacial sediment and the formation of beaches.", "path": "instruction/glacial-sediment-and-beaches/glacial-sediment-and-beaches.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Wave Dynamics and Beach Morphology",
+      "description": "Exploring how wave action shapes beach profiles and features.",
+      "topics": [
+        { "title": "Wave Generation and Propagation", "description": "Understanding how waves are formed and how they travel.", "path": "instruction/wave-generation-and-propagation/wave-generation-and-propagation.md", "type": "instruction", "state": "stub" },
+        { "title": "Wave Refraction and Diffraction", "description": "How waves bend and spread as they approach the shore.", "path": "instruction/wave-refraction-and-diffraction/wave-refraction-and-diffraction.md", "type": "instruction", "state": "stub" },
+        { "title": "Wave Breaking", "description": "The process of wave breaking and its impact on the beach.", "path": "instruction/wave-breaking/wave-breaking.md", "type": "instruction", "state": "stub" },
+        { "title": "Swash and Backwash", "description": "Understanding the movement of water up and down the beach face.", "path": "instruction/swash-and-backwash/swash-and-backwash.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Profile", "description": "The different zones of a beach and their characteristics.", "path": "instruction/beach-profile/beach-profile.md", "type": "instruction", "state": "stub" },
+        { "title": "Berms and Cusps", "description": "Identifying and understanding the formation of berms and cusps.", "path": "instruction/berms-and-cusps/berms-and-cusps.md", "type": "instruction", "state": "stub" },
+        { "title": "Longshore Currents", "description": "The formation and effects of longshore currents.", "path": "instruction/longshore-currents/longshore-currents.md", "type": "instruction", "state": "stub" },
+        { "title": "Rip Currents", "description": "Understanding rip currents and how to avoid them.", "path": "instruction/rip-currents/rip-currents.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Slope and Grain Size", "description": "The relationship between beach slope and sand grain size.", "path": "instruction/beach-slope-and-grain-size/beach-slope-and-grain-size.md", "type": "instruction", "state": "stub" },
+        { "title": "Seasonal Beach Changes", "description": "How beaches change throughout the year due to seasonal variations.", "path": "instruction/seasonal-beach-changes/seasonal-beach-changes.md", "type": "instruction", "state": "stub" },
+        { "title": "Storm Surge Impact", "description": "The effect of storm surges on sandy beaches.", "path": "instruction/storm-surge-impact/storm-surge-impact.md", "type": "instruction", "state": "stub" },
+        { "title": "Tidal Influence on Beaches", "description": "The effects of tides on beach morphology and processes.", "path": "instruction/tidal-influence-on-beaches/tidal-influence-on-beaches.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Coastal Erosion and Accretion",
+      "description": "Examining the processes of coastal erosion and accretion, and their drivers.",
+      "topics": [
+        { "title": "Causes of Coastal Erosion", "description": "Identifying the factors that contribute to coastal erosion.", "path": "instruction/causes-of-coastal-erosion/causes-of-coastal-erosion.md", "type": "instruction", "state": "stub" },
+        { "title": "Natural Erosion Processes", "description": "Understanding natural erosion processes like wave action and storms.", "path": "instruction/natural-erosion-processes/natural-erosion-processes.md", "type": "instruction", "state": "stub" },
+        { "title": "Human-Induced Erosion", "description": "The impact of human activities on coastal erosion rates.", "path": "instruction/human-induced-erosion/human-induced-erosion.md", "type": "instruction", "state": "stub" },
+        { "title": "Sea Level Rise and Erosion", "description": "The relationship between sea level rise and coastal erosion.", "path": "instruction/sea-level-rise-and-erosion/sea-level-rise-and-erosion.md", "type": "instruction", "state": "stub" },
+        { "title": "Coastal Accretion", "description": "The process of sediment accumulation and beach growth.", "path": "instruction/coastal-accretion/coastal-accretion.md", "type": "instruction", "state": "stub" },
+        { "title": "Longshore Transport and Accretion", "description": "The role of longshore transport in beach accretion.", "path": "instruction/longshore-transport-and-accretion/longshore-transport-and-accretion.md", "type": "instruction", "state": "stub" },
+        { "title": "Sediment Budget", "description": "Understanding the balance between sediment input and output on a beach.", "path": "instruction/sediment-budget/sediment-budget.md", "type": "instruction", "state": "stub" },
+        { "title": "Coastal Protection Structures", "description": "Examining different types of coastal protection structures and their effectiveness.", "path": "instruction/coastal-protection-structures/coastal-protection-structures.md", "type": "instruction", "state": "stub" },
+        { "title": "Seawalls", "description": "The design and impact of seawalls on coastal environments.", "path": "instruction/seawalls/seawalls.md", "type": "instruction", "state": "stub" },
+        { "title": "Groins", "description": "Understanding the function and effects of groins on beach erosion.", "path": "instruction/groins/groins.md", "type": "instruction", "state": "stub" },
+        { "title": "Breakwaters", "description": "The purpose and impact of breakwaters on wave energy and sediment transport.", "path": "instruction/breakwaters/breakwaters.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Nourishment", "description": "The process of adding sand to eroded beaches.", "path": "instruction/beach-nourishment/beach-nourishment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Coastal Dunes and Vegetation",
+      "description": "The role of coastal dunes and vegetation in stabilizing sandy beaches.",
+      "topics": [
+        { "title": "Formation of Coastal Dunes", "description": "Understanding how coastal dunes are formed by wind and sand.", "path": "instruction/formation-of-coastal-dunes/formation-of-coastal-dunes.md", "type": "instruction", "state": "stub" },
+        { "title": "Types of Coastal Dunes", "description": "Identifying different types of coastal dunes.", "path": "instruction/types-of-coastal-dunes/types-of-coastal-dunes.md", "type": "instruction", "state": "stub" },
+        { "title": "Dune Vegetation", "description": "Exploring the plants that grow on coastal dunes and their adaptations.", "path": "instruction/dune-vegetation/dune-vegetation.md", "type": "instruction", "state": "stub" },
+        { "title": "Role of Vegetation in Dune Stabilization", "description": "Understanding how vegetation helps to stabilize dunes.", "path": "instruction/role-of-vegetation-in-dune-stabilization/role-of-vegetation-in-dune-stabilization.md", "type": "instruction", "state": "stub" },
+        { "title": "Dune Management", "description": "Strategies for managing and protecting coastal dunes.", "path": "instruction/dune-management/dune-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Dune Restoration", "description": "Techniques for restoring damaged or degraded coastal dunes.", "path": "instruction/dune-restoration/dune-restoration.md", "type": "instruction", "state": "stub" },
+        { "title": "Invasive Species on Dunes", "description": "The impact of invasive species on dune ecosystems.", "path": "instruction/invasive-species-on-dunes/invasive-species-on-dunes.md", "type": "instruction", "state": "stub" },
+        { "title": "Dune Walkovers", "description": "The importance of dune walkovers for protecting dune vegetation.", "path": "instruction/dune-walkovers/dune-walkovers.md", "type": "instruction", "state": "stub" },
+        { "title": "Dune Erosion and Climate Change", "description": "The relationship between climate change and dune erosion.", "path": "instruction/dune-erosion-and-climate-change/dune-erosion-and-climate-change.md", "type": "instruction", "state": "stub" },
+        { "title": "Dune Morphology", "description": "Understanding the various shapes and forms of coastal dunes.", "path": "instruction/dune-morphology/dune-morphology.md", "type": "instruction", "state": "stub" },
+        { "title": "Salt Spray and Dune Vegetation", "description": "The effects of salt spray on the distribution of dune vegetation.", "path": "instruction/salt-spray-and-dune-vegetation/salt-spray-and-dune-vegetation.md", "type": "instruction", "state": "stub" },
+        { "title": "Dune Succession", "description": "The changes in plant communities over time on coastal dunes.", "path": "instruction/dune-succession/dune-succession.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Beach Ecosystems and Biodiversity",
+      "description": "Exploring the diverse flora and fauna that inhabit sandy beach environments.",
+      "topics": [
+        { "title": "Intertidal Zone", "description": "Understanding the characteristics of the intertidal zone.", "path": "instruction/intertidal-zone/intertidal-zone.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Invertebrates", "description": "Identifying common invertebrates found on sandy beaches.", "path": "instruction/beach-invertebrates/beach-invertebrates.md", "type": "instruction", "state": "stub" },
+        { "title": "Shorebirds", "description": "Exploring the bird species that rely on sandy beaches for feeding and nesting.", "path": "instruction/shorebirds/shorebirds.md", "type": "instruction", "state": "stub" },
+        { "title": "Marine Mammals", "description": "The marine mammals that visit or inhabit sandy beach areas.", "path": "instruction/marine-mammals/marine-mammals.md", "type": "instruction", "state": "stub" },
+        { "title": "Sea Turtles", "description": "The importance of sandy beaches for sea turtle nesting.", "path": "instruction/sea-turtles/sea-turtles.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Food Web", "description": "Understanding the relationships between organisms in the beach food web.", "path": "instruction/beach-food-web/beach-food-web.md", "type": "instruction", "state": "stub" },
+        { "title": "Microbial Communities", "description": "The role of microorganisms in beach ecosystems.", "path": "instruction/microbial-communities/microbial-communities.md", "type": "instruction", "state": "stub" },
+        { "title": "Pollution Impacts on Beach Ecosystems", "description": "The effects of pollution on beach biodiversity.", "path": "instruction/pollution-impacts-on-beach-ecosystems/pollution-impacts-on-beach-ecosystems.md", "type": "instruction", "state": "stub" },
+        { "title": "Habitat Loss and Fragmentation", "description": "The impact of habitat loss on beach ecosystems.", "path": "instruction/habitat-loss-and-fragmentation/habitat-loss-and-fragmentation.md", "type": "instruction", "state": "stub" },
+        { "title": "Conservation of Beach Biodiversity", "description": "Strategies for protecting beach ecosystems and biodiversity.", "path": "instruction/conservation-of-beach-biodiversity/conservation-of-beach-biodiversity.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Monitoring for Biodiversity", "description": "Methods for monitoring beach ecosystems and biodiversity.", "path": "instruction/beach-monitoring-for-biodiversity/beach-monitoring-for-biodiversity.md", "type": "instruction", "state": "stub" },
+        { "title": "Citizen Science and Beach Monitoring", "description": "The role of citizen scientists in monitoring beach ecosystems.", "path": "instruction/citizen-science-and-beach-monitoring/citizen-science-and-beach-monitoring.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Human Impacts and Beach Management",
+      "description": "Examining the various ways human activities affect sandy beaches and the strategies for managing them sustainably.",
+      "topics": [
+        { "title": "Coastal Development", "description": "The impact of coastal development on sandy beaches.", "path": "instruction/coastal-development/coastal-development.md", "type": "instruction", "state": "stub" },
+        { "title": "Tourism Impacts", "description": "The effects of tourism on beach environments.", "path": "instruction/tourism-impacts/tourism-impacts.md", "type": "instruction", "state": "stub" },
+        { "title": "Pollution Sources", "description": "Identifying the sources of pollution on sandy beaches.", "path": "instruction/pollution-sources/pollution-sources.md", "type": "instruction", "state": "stub" },
+        { "title": "Plastic Pollution", "description": "The problem of plastic pollution on sandy beaches.", "path": "instruction/plastic-pollution/plastic-pollution.md", "type": "instruction", "state": "stub" },
+        { "title": "Oil Spills", "description": "The impact of oil spills on beach ecosystems.", "path": "instruction/oil-spills/oil-spills.md", "type": "instruction", "state": "stub" },
+        { "title": "Wastewater Discharge", "description": "The effects of wastewater discharge on beach water quality.", "path": "instruction/wastewater-discharge/wastewater-discharge.md", "type": "instruction", "state": "stub" },
+        { "title": "Sustainable Beach Management", "description": "Strategies for managing beaches sustainably.", "path": "instruction/sustainable-beach-management/sustainable-beach-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Coastal Zone Management", "description": "The principles of coastal zone management.", "path": "instruction/coastal-zone-management/coastal-zone-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Marine Protected Areas", "description": "The role of marine protected areas in beach conservation.", "path": "instruction/marine-protected-areas/marine-protected-areas.md", "type": "instruction", "state": "stub" },
+        { "title": "Community Involvement in Beach Management", "description": "The importance of community involvement in beach management.", "path": "instruction/community-involvement-in-beach-management/community-involvement-in-beach-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Beach Cleanup Programs", "description": "Organizing and participating in beach cleanup programs.", "path": "instruction/beach-cleanup-programs/beach-cleanup-programs.md", "type": "instruction", "state": "stub" },
+        { "title": "Education and Awareness", "description": "Raising awareness about beach conservation issues.", "path": "instruction/education-and-awareness/education-and-awareness.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Capstone Project: Beach Assessment and Management Plan",
+      "description": "Integrate the knowledge gained throughout the course to develop a comprehensive beach assessment and management plan for a specific location.",
+      "topics": [
+        { "title": "Project Overview and Objectives", "description": "Defining the goals and scope of the capstone project.", "path": "instruction/project-overview-and-objectives/project-overview-and-objectives.md", "type": "instruction", "state": "stub" },
+        { "title": "Selecting a Beach Location", "description": "Choosing a suitable beach for the assessment.", "path": "instruction/selecting-a-beach-location/selecting-a-beach-location.md", "type": "instruction", "state": "stub" },
+        { "title": "Data Collection Methods", "description": "Gathering data on beach characteristics, erosion rates, and human impacts.", "path": "instruction/data-collection-methods/data-collection-methods.md", "type": "instruction", "state": "stub" },
+        { "title": "Sand Composition Analysis", "description": "Analyzing sand samples to determine their mineral composition and origin.", "path": "instruction/sand-composition-analysis/sand-composition-analysis.md", "type": "instruction", "state": "stub" },
+        { "title": "Wave and Current Analysis", "description": "Assessing wave and current patterns at the selected beach.", "path": "instruction/wave-and-current-analysis/wave-and-current-analysis.md", "type": "instruction", "state": "stub" },
+        { "title": "Erosion Rate Assessment", "description": "Determining the rate of erosion at the selected beach.", "path": "instruction/erosion-rate-assessment/erosion-rate-assessment.md", "type": "instruction", "state": "stub" },
+        { "title": "Ecological Assessment", "description": "Evaluating the biodiversity and health of the beach ecosystem.", "path": "instruction/ecological-assessment/ecological-assessment.md", "type": "instruction", "state": "stub" },
+        { "title": "Human Impact Assessment", "description": "Identifying and assessing the human impacts on the beach environment.", "path": "instruction/human-impact-assessment/human-impact-assessment.md", "type": "instruction", "state": "stub" },
+        { "title": "Developing Management Strategies", "description": "Developing strategies for managing the beach sustainably.", "path": "instruction/developing-management-strategies/developing-management-strategies.md", "type": "instruction", "state": "stub" },
+        { "title": "Coastal Protection Measures", "description": "Evaluating and recommending appropriate coastal protection measures.", "path": "instruction/coastal-protection-measures/coastal-protection-measures.md", "type": "instruction", "state": "stub" },
+        { "title": "Community Engagement Plan", "description": "Developing a plan for engaging the local community in beach management.", "path": "instruction/community-engagement-plan/community-engagement-plan.md", "type": "instruction", "state": "stub" },
+        { "title": "Final Report and Presentation", "description": "Preparing a comprehensive report and presentation summarizing the project findings and recommendations.", "path": "instruction/final-report-and-presentation/final-report-and-presentation.md", "type": "instruction", "state": "stub" }
+      ]
+    }
+  ]
+}
